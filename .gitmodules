@@ -1,0 +1,5 @@
+[submodule "EGS-LL"]
+	path = EGS-LL
+	url = https://github.com/XAOSTECH/EGS-LL.git
+
+
