@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "repository": "win-tools",
+    "current_branch": "main",
+    "repo_url": "https://github.com/XAOSTECH/win-tools",
+    "generated": "2026-03-30T02:43:45Z",
+    "max_commits": 500
+  },
+  "commits": [
+    {
+      "sha": "959bc69269b7e5bdc6f4475f798b3e2c7711f93f",
+      "short": "959bc69",
+      "parents": "41dcbba4ab70686be00a4897366d0a985a955ae3",
+      "author": "xaos-bot",
+      "email": "262248812+xaos-bot@users.noreply.github.com",
+      "date": "2026-03-30T02:43:16Z",
+      "timestamp": 1774838596,
+      "subject": "chore: update 1 submodule(s) to latest",
+      "refs": "origin/chore/update-submodules-20260330-024316",
+      "position": {
+        "x": 600,
+        "y": 60,
+        "lane": 0,
+        "radius": 6,
+        "depth": 0,
+        "is_trunk": true,
+        "is_merge": false,
+        "is_fork": false
+      }
+    },
+    {
+      "sha": "3d0401ae56a0f6b4182dfd2d75b70d848c4deedf",
+      "short": "3d0401a",
+      "parents": "d2fc99cfc93c1fb481beceede71eccdb7f29b01e",
+      "author": "xaoscience",
+      "email": "69734795+xaoscience@users.noreply.github.com",
+      "date": "2026-03-26T20:17:30+01:00",
+      "timestamp": 1774552650,
+      "subject": "chore(dc-init): load workflows,actions",
+      "refs": "origin/Main",
+      "position": {
+        "x": 720,
+        "y": 100,
+        "lane": 1,
+        "radius": 6,
+        "depth": 1,
+        "is_trunk": false,
+        "is_merge": false,
+        "is_fork": false
+      }
+    },
+    {
+      "sha": "41dcbba4ab70686be00a4897366d0a985a955ae3",
+      "short": "41dcbba",
+      "parents": "d2fc99cfc93c1fb481beceede71eccdb7f29b01e",
+      "author": "xaoscience",
+      "email": "69734795+xaoscience@users.noreply.github.com",
+      "date": "2026-03-26T20:17:30+01:00",
+      "timestamp": 1774552650,
+      "subject": "chore(dc-init): load workflows,actions",
+      "refs": "HEAD -> main, origin/main",
+      "position": {
+        "x": 600,
+        "y": 180,
+        "lane": 0,
+        "radius": 6,
+        "depth": 2,
+        "is_trunk": true,
+        "is_merge": false,
+        "is_fork": false
+      }
+    },
+    {
+      "sha": "d2fc99cfc93c1fb481beceede71eccdb7f29b01e",
+      "short": "d2fc99c",
+      "parents": "",
+      "author": "xaoscience",
+      "email": "69734795+xaoscience@users.noreply.github.com",
+      "date": "2026-03-24T19:25:27+01:00",
+      "timestamp": 1774376727,
+      "subject": "Initial commit",
+      "refs": "",
+      "position": {
+        "x": 600,
+        "y": 220,
+        "lane": 0,
+        "radius": 9,
+        "depth": 3,
+        "is_trunk": true,
+        "is_merge": false,
+        "is_fork": true
+      }
+    }
+  ],
+  "branches": [
+    {
+      "name": "41dcbba4ab70686be00a4897366d0a985a955ae3 chore(dc-init): load workflows,actions",
+      "sha": "*",
+      "current": false,
+      "merged": false
+    }
+  ],
+  "tags": []
+}
