@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="300" height="300"
-     viewBox="580 40 200 200">
+     width="300" height="342"
+     viewBox="460 40 280 320">
   <style>
     @keyframes sway {
       0%   { transform: translateX(0); }
@@ -15,12 +15,17 @@
   </style>
   <rect width="100%" height="100%" fill="#0a0a1a" rx="6"/>
   <g class="mini-node">
-    <line class="mini-line" stroke="#4ade80" x1="600" y1="60" x2="600" y2="180"/>
-    <path class="mini-line" stroke="#64748b" d="M 720 100 C 720 148, 600 172, 600 220"/>
-    <line class="mini-line" stroke="#4ade80" x1="600" y1="180" x2="600" y2="220"/>
-    <circle cx="600" cy="60" r="4" fill="#4ade80" opacity="0.9"/>
-    <circle cx="720" cy="100" r="4" fill="#4ade80" opacity="0.9"/>
-    <circle cx="600" cy="180" r="4" fill="#4ade80" opacity="0.9"/>
+    <line class="mini-line" stroke="#4ade80" x1="600" y1="60" x2="600" y2="100"/>
+    <path class="mini-line" stroke="#64748b" d="M 600 60 C 600 92, 720 108, 720 140"/>
+    <line class="mini-line" stroke="#4ade80" x1="600" y1="100" x2="600" y2="220"/>
+    <path class="mini-line" stroke="#64748b" d="M 720 140 C 720 172, 600 188, 600 220"/>
+    <line class="mini-line" stroke="#4ade80" x1="600" y1="220" x2="600" y2="340"/>
+    <path class="mini-line" stroke="#64748b" d="M 480 260 C 480 292, 600 308, 600 340"/>
+    <circle cx="600" cy="60" r="7" fill="#c084fc" opacity="0.9"/>
+    <circle cx="600" cy="100" r="4" fill="#4ade80" opacity="0.9"/>
+    <circle cx="720" cy="140" r="4" fill="#4ade80" opacity="0.9"/>
     <circle cx="600" cy="220" r="6" fill="#fb923c" opacity="0.9"/>
+    <circle cx="480" cy="260" r="4" fill="#4ade80" opacity="0.9"/>
+    <circle cx="600" cy="340" r="6" fill="#fb923c" opacity="0.9"/>
   </g>
 </svg>

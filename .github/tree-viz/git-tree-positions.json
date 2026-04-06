@@ -3,10 +3,52 @@
     "repository": "win-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/win-tools",
-    "generated": "2026-03-30T02:43:45Z",
+    "generated": "2026-04-06T02:44:39Z",
     "max_commits": 500
   },
   "commits": [
+    {
+      "sha": "e522dede0a2bb274a4552edbe0484f5f28583c9a",
+      "short": "e522ded",
+      "parents": "f388651010ecd146221e178a869aa994df25f884 959bc69269b7e5bdc6f4475f798b3e2c7711f93f",
+      "author": "xaostech[bot]",
+      "email": "260314499+xaostech[bot]@users.noreply.github.com",
+      "date": "2026-03-30T02:43:51Z",
+      "timestamp": 1774838631,
+      "subject": "Merge pull request #1 from XAOSTECH:chore/update-submodules-20260330-024316",
+      "refs": "HEAD -> main, origin/main",
+      "position": {
+        "x": 600,
+        "y": 60,
+        "lane": 0,
+        "radius": 10,
+        "depth": 0,
+        "is_trunk": true,
+        "is_merge": true,
+        "is_fork": false
+      }
+    },
+    {
+      "sha": "f388651010ecd146221e178a869aa994df25f884",
+      "short": "f388651",
+      "parents": "41dcbba4ab70686be00a4897366d0a985a955ae3",
+      "author": "xaos-bot",
+      "email": "262248812+xaos-bot@users.noreply.github.com",
+      "date": "2026-03-30T02:43:45Z",
+      "timestamp": 1774838625,
+      "subject": "chore: update git tree visualisation",
+      "refs": "",
+      "position": {
+        "x": 600,
+        "y": 100,
+        "lane": 0,
+        "radius": 6,
+        "depth": 1,
+        "is_trunk": true,
+        "is_merge": false,
+        "is_fork": false
+      }
+    },
     {
       "sha": "959bc69269b7e5bdc6f4475f798b3e2c7711f93f",
       "short": "959bc69",
@@ -16,34 +58,13 @@
       "date": "2026-03-30T02:43:16Z",
       "timestamp": 1774838596,
       "subject": "chore: update 1 submodule(s) to latest",
-      "refs": "origin/chore/update-submodules-20260330-024316",
-      "position": {
-        "x": 600,
-        "y": 60,
-        "lane": 0,
-        "radius": 6,
-        "depth": 0,
-        "is_trunk": true,
-        "is_merge": false,
-        "is_fork": false
-      }
-    },
-    {
-      "sha": "3d0401ae56a0f6b4182dfd2d75b70d848c4deedf",
-      "short": "3d0401a",
-      "parents": "d2fc99cfc93c1fb481beceede71eccdb7f29b01e",
-      "author": "xaoscience",
-      "email": "69734795+xaoscience@users.noreply.github.com",
-      "date": "2026-03-26T20:17:30+01:00",
-      "timestamp": 1774552650,
-      "subject": "chore(dc-init): load workflows,actions",
-      "refs": "origin/Main",
+      "refs": "",
       "position": {
         "x": 720,
-        "y": 100,
+        "y": 140,
         "lane": 1,
         "radius": 6,
-        "depth": 1,
+        "depth": 2,
         "is_trunk": false,
         "is_merge": false,
         "is_fork": false
@@ -58,14 +79,35 @@
       "date": "2026-03-26T20:17:30+01:00",
       "timestamp": 1774552650,
       "subject": "chore(dc-init): load workflows,actions",
-      "refs": "HEAD -> main, origin/main",
+      "refs": "",
       "position": {
         "x": 600,
-        "y": 180,
+        "y": 220,
         "lane": 0,
-        "radius": 6,
-        "depth": 2,
+        "radius": 9,
+        "depth": 3,
         "is_trunk": true,
+        "is_merge": false,
+        "is_fork": true
+      }
+    },
+    {
+      "sha": "3d0401ae56a0f6b4182dfd2d75b70d848c4deedf",
+      "short": "3d0401a",
+      "parents": "d2fc99cfc93c1fb481beceede71eccdb7f29b01e",
+      "author": "xaoscience",
+      "email": "69734795+xaoscience@users.noreply.github.com",
+      "date": "2026-03-26T20:17:30+01:00",
+      "timestamp": 1774552650,
+      "subject": "chore(dc-init): load workflows,actions",
+      "refs": "origin/Main",
+      "position": {
+        "x": 480,
+        "y": 260,
+        "lane": -1,
+        "radius": 6,
+        "depth": 4,
+        "is_trunk": false,
         "is_merge": false,
         "is_fork": false
       }
@@ -82,10 +124,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 220,
+        "y": 340,
         "lane": 0,
         "radius": 9,
-        "depth": 3,
+        "depth": 5,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": true
@@ -94,7 +136,7 @@
   ],
   "branches": [
     {
-      "name": "41dcbba4ab70686be00a4897366d0a985a955ae3 chore(dc-init): load workflows,actions",
+      "name": "e522dede0a2bb274a4552edbe0484f5f28583c9a Merge pull request #1 from XAOSTECH:chore/update-submodules-20260330-024316",
       "sha": "*",
       "current": false,
       "merged": false
