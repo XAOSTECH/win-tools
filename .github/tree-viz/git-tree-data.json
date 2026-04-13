@@ -3,10 +3,21 @@
     "repository": "win-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/win-tools",
-    "generated": "2026-04-06T02:44:39Z",
+    "generated": "2026-04-13T02:54:25Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "0d47d1c53877a687c7e3a5dd7f62ff68bcf84fe5",
+    "short": "0d47d1c",
+    "parents": "e522dede0a2bb274a4552edbe0484f5f28583c9a",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-04-06T02:44:39Z",
+    "timestamp": 1775443479,
+    "subject": "chore: update git tree visualisation",
+    "refs": "HEAD -> main, origin/main"
+  },
   {
     "sha": "e522dede0a2bb274a4552edbe0484f5f28583c9a",
     "short": "e522ded",
@@ -16,7 +27,7 @@
     "date": "2026-03-30T02:43:51Z",
     "timestamp": 1774838631,
     "subject": "Merge pull request #1 from XAOSTECH:chore/update-submodules-20260330-024316",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "f388651010ecd146221e178a869aa994df25f884",
@@ -75,7 +86,7 @@
   }
 ],
   "branches": [
-  {"name":"e522dede0a2bb274a4552edbe0484f5f28583c9a Merge pull request #1 from XAOSTECH:chore/update-submodules-20260330-024316","sha":"*","current":false,"merged":false}
+  {"name":"0d47d1c53877a687c7e3a5dd7f62ff68bcf84fe5 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
 ],
   "tags": [
 
