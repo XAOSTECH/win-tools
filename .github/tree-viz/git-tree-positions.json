@@ -3,10 +3,73 @@
     "repository": "win-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/win-tools",
-    "generated": "2026-04-13T02:54:25Z",
+    "generated": "2026-04-27T03:21:46Z",
     "max_commits": 500
   },
   "commits": [
+    {
+      "sha": "065bf73eeac0d4c677001150b0e7db0f29a7e132",
+      "short": "065bf73",
+      "parents": "8221727e80c1c1b93903559d17d9b6612772a56e 768e61265717c39886c957e5765f7596a70e3707",
+      "author": "xaostech[bot]",
+      "email": "260314499+xaostech[bot]@users.noreply.github.com",
+      "date": "2026-04-20T02:55:12Z",
+      "timestamp": 1776653712,
+      "subject": "Merge pull request #2 from XAOSTECH:chore/update-submodules-20260420-025444",
+      "refs": "HEAD -> main, origin/main",
+      "position": {
+        "x": 600,
+        "y": 60,
+        "lane": 0,
+        "radius": 10,
+        "depth": 0,
+        "is_trunk": true,
+        "is_merge": true,
+        "is_fork": false
+      }
+    },
+    {
+      "sha": "768e61265717c39886c957e5765f7596a70e3707",
+      "short": "768e612",
+      "parents": "8221727e80c1c1b93903559d17d9b6612772a56e",
+      "author": "xaos-bot",
+      "email": "262248812+xaos-bot@users.noreply.github.com",
+      "date": "2026-04-20T02:54:44Z",
+      "timestamp": 1776653684,
+      "subject": "chore: update 1 submodule(s) to latest",
+      "refs": "",
+      "position": {
+        "x": 720,
+        "y": 100,
+        "lane": 1,
+        "radius": 6,
+        "depth": 1,
+        "is_trunk": false,
+        "is_merge": false,
+        "is_fork": false
+      }
+    },
+    {
+      "sha": "8221727e80c1c1b93903559d17d9b6612772a56e",
+      "short": "8221727",
+      "parents": "0d47d1c53877a687c7e3a5dd7f62ff68bcf84fe5",
+      "author": "xaos-bot",
+      "email": "262248812+xaos-bot@users.noreply.github.com",
+      "date": "2026-04-13T02:54:25Z",
+      "timestamp": 1776048865,
+      "subject": "chore: update git tree visualisation",
+      "refs": "",
+      "position": {
+        "x": 600,
+        "y": 180,
+        "lane": 0,
+        "radius": 9,
+        "depth": 2,
+        "is_trunk": true,
+        "is_merge": false,
+        "is_fork": true
+      }
+    },
     {
       "sha": "0d47d1c53877a687c7e3a5dd7f62ff68bcf84fe5",
       "short": "0d47d1c",
@@ -16,13 +79,13 @@
       "date": "2026-04-06T02:44:39Z",
       "timestamp": 1775443479,
       "subject": "chore: update git tree visualisation",
-      "refs": "HEAD -> main, origin/main",
+      "refs": "",
       "position": {
         "x": 600,
-        "y": 60,
+        "y": 220,
         "lane": 0,
         "radius": 6,
-        "depth": 0,
+        "depth": 3,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -40,10 +103,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 100,
+        "y": 260,
         "lane": 0,
         "radius": 10,
-        "depth": 1,
+        "depth": 4,
         "is_trunk": true,
         "is_merge": true,
         "is_fork": false
@@ -61,10 +124,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 140,
+        "y": 300,
         "lane": 0,
         "radius": 6,
-        "depth": 2,
+        "depth": 5,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": false
@@ -81,11 +144,11 @@
       "subject": "chore: update 1 submodule(s) to latest",
       "refs": "",
       "position": {
-        "x": 720,
-        "y": 180,
-        "lane": 1,
+        "x": 480,
+        "y": 340,
+        "lane": -1,
         "radius": 6,
-        "depth": 3,
+        "depth": 6,
         "is_trunk": false,
         "is_merge": false,
         "is_fork": false
@@ -103,10 +166,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 260,
+        "y": 420,
         "lane": 0,
         "radius": 9,
-        "depth": 4,
+        "depth": 7,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": true
@@ -123,11 +186,11 @@
       "subject": "chore(dc-init): load workflows,actions",
       "refs": "origin/Main",
       "position": {
-        "x": 480,
-        "y": 300,
-        "lane": -1,
+        "x": 840,
+        "y": 460,
+        "lane": 2,
         "radius": 6,
-        "depth": 5,
+        "depth": 8,
         "is_trunk": false,
         "is_merge": false,
         "is_fork": false
@@ -145,10 +208,10 @@
       "refs": "",
       "position": {
         "x": 600,
-        "y": 380,
+        "y": 540,
         "lane": 0,
         "radius": 9,
-        "depth": 6,
+        "depth": 9,
         "is_trunk": true,
         "is_merge": false,
         "is_fork": true
@@ -157,7 +220,7 @@
   ],
   "branches": [
     {
-      "name": "0d47d1c53877a687c7e3a5dd7f62ff68bcf84fe5 chore: update git tree visualisation",
+      "name": "065bf73eeac0d4c677001150b0e7db0f29a7e132 Merge pull request #2 from XAOSTECH:chore/update-submodules-20260420-025444",
       "sha": "*",
       "current": false,
       "merged": false
