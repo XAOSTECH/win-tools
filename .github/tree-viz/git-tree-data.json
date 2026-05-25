@@ -3,10 +3,98 @@
     "repository": "win-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/win-tools",
-    "generated": "2026-04-13T02:54:25Z",
+    "generated": "2026-05-25T04:02:56Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "f44f95d738f599a58e27e7713591d57ccc564356",
+    "short": "f44f95d",
+    "parents": "23a8138cffd8ccf85b0da383ae15dc6622e07e0c",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-05-25T04:02:26Z",
+    "timestamp": 1779681746,
+    "subject": "chore: update 1 submodule(s) to latest",
+    "refs": "origin/chore/update-submodules-20260525-040226"
+  },
+  {
+    "sha": "23a8138cffd8ccf85b0da383ae15dc6622e07e0c",
+    "short": "23a8138",
+    "parents": "3bd440de18d1bb14f23f7bd2d3ed85fcfb94cf07",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-05-18T03:54:38Z",
+    "timestamp": 1779076478,
+    "subject": "chore: update git tree visualisation",
+    "refs": "HEAD -> main, origin/main"
+  },
+  {
+    "sha": "3bd440de18d1bb14f23f7bd2d3ed85fcfb94cf07",
+    "short": "3bd440d",
+    "parents": "843b44b72cd40388aa33ab76c9c3bd58370820b0",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-05-11T03:43:53Z",
+    "timestamp": 1778471033,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
+  {
+    "sha": "843b44b72cd40388aa33ab76c9c3bd58370820b0",
+    "short": "843b44b",
+    "parents": "556bd2f33756d869e0e3bbbc9cfc5cf40f345c58",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-05-04T03:28:17Z",
+    "timestamp": 1777865297,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
+  {
+    "sha": "556bd2f33756d869e0e3bbbc9cfc5cf40f345c58",
+    "short": "556bd2f",
+    "parents": "065bf73eeac0d4c677001150b0e7db0f29a7e132",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-04-27T03:21:46Z",
+    "timestamp": 1777260106,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
+  {
+    "sha": "065bf73eeac0d4c677001150b0e7db0f29a7e132",
+    "short": "065bf73",
+    "parents": "8221727e80c1c1b93903559d17d9b6612772a56e 768e61265717c39886c957e5765f7596a70e3707",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-04-20T02:55:12Z",
+    "timestamp": 1776653712,
+    "subject": "Merge pull request #2 from XAOSTECH:chore/update-submodules-20260420-025444",
+    "refs": ""
+  },
+  {
+    "sha": "768e61265717c39886c957e5765f7596a70e3707",
+    "short": "768e612",
+    "parents": "8221727e80c1c1b93903559d17d9b6612772a56e",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-04-20T02:54:44Z",
+    "timestamp": 1776653684,
+    "subject": "chore: update 1 submodule(s) to latest",
+    "refs": ""
+  },
+  {
+    "sha": "8221727e80c1c1b93903559d17d9b6612772a56e",
+    "short": "8221727",
+    "parents": "0d47d1c53877a687c7e3a5dd7f62ff68bcf84fe5",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-04-13T02:54:25Z",
+    "timestamp": 1776048865,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
   {
     "sha": "0d47d1c53877a687c7e3a5dd7f62ff68bcf84fe5",
     "short": "0d47d1c",
@@ -16,7 +104,7 @@
     "date": "2026-04-06T02:44:39Z",
     "timestamp": 1775443479,
     "subject": "chore: update git tree visualisation",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "e522dede0a2bb274a4552edbe0484f5f28583c9a",
@@ -86,7 +174,7 @@
   }
 ],
   "branches": [
-  {"name":"0d47d1c53877a687c7e3a5dd7f62ff68bcf84fe5 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
+  {"name":"23a8138cffd8ccf85b0da383ae15dc6622e07e0c chore: update git tree visualisation","sha":"*","current":false,"merged":false}
 ],
   "tags": [
 
