@@ -3,10 +3,32 @@
     "repository": "win-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/win-tools",
-    "generated": "2026-07-27T03:21:29Z",
+    "generated": "2026-08-03T02:56:54Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "65ce388565b31b56b8d1e2af991bbd95398682c2",
+    "short": "65ce388",
+    "parents": "5fd0aa9a466167a7c971a44c4da84c29c21d4f42",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-08-03T02:56:30Z",
+    "timestamp": 1785725790,
+    "subject": "chore: update 1 submodule(s) to latest",
+    "refs": "origin/chore/update-submodules-20260803-025630"
+  },
+  {
+    "sha": "5fd0aa9a466167a7c971a44c4da84c29c21d4f42",
+    "short": "5fd0aa9",
+    "parents": "5817bf38ebf37ec79c10acf3621604423857bc38",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-07-27T03:21:29Z",
+    "timestamp": 1785122489,
+    "subject": "chore: update git tree visualisation",
+    "refs": "HEAD -> main, origin/main"
+  },
   {
     "sha": "5817bf38ebf37ec79c10acf3621604423857bc38",
     "short": "5817bf3",
@@ -16,7 +38,7 @@
     "date": "2026-07-20T03:21:54Z",
     "timestamp": 1784517714,
     "subject": "chore: update git tree visualisation",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "f8ed26dd8991c2840dcfe551cf9c0d1b8eca7358",
@@ -306,7 +328,7 @@
   }
 ],
   "branches": [
-  {"name":"5817bf38ebf37ec79c10acf3621604423857bc38 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
+  {"name":"5fd0aa9a466167a7c971a44c4da84c29c21d4f42 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
 ],
   "tags": [
 
