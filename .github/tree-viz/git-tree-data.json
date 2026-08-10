@@ -3,10 +3,32 @@
     "repository": "win-tools",
     "current_branch": "main",
     "repo_url": "https://github.com/XAOSTECH/win-tools",
-    "generated": "2026-08-03T02:56:54Z",
+    "generated": "2026-08-10T01:56:11Z",
     "max_commits": 500
   },
   "commits": [
+  {
+    "sha": "6d969cb732bb48dce672e9f01f181b622a21dbbb",
+    "short": "6d969cb",
+    "parents": "495ce3249ed6161d2a6e5c0c3460ac3b15973a1c 65ce388565b31b56b8d1e2af991bbd95398682c2",
+    "author": "xaostech[bot]",
+    "email": "260314499+xaostech[bot]@users.noreply.github.com",
+    "date": "2026-08-03T02:57:01Z",
+    "timestamp": 1785725821,
+    "subject": "Merge pull request #5 from XAOSTECH:chore/update-submodules-20260803-025630",
+    "refs": "HEAD -> main, origin/main"
+  },
+  {
+    "sha": "495ce3249ed6161d2a6e5c0c3460ac3b15973a1c",
+    "short": "495ce32",
+    "parents": "5fd0aa9a466167a7c971a44c4da84c29c21d4f42",
+    "author": "xaos-bot",
+    "email": "262248812+xaos-bot@users.noreply.github.com",
+    "date": "2026-08-03T02:56:55Z",
+    "timestamp": 1785725815,
+    "subject": "chore: update git tree visualisation",
+    "refs": ""
+  },
   {
     "sha": "65ce388565b31b56b8d1e2af991bbd95398682c2",
     "short": "65ce388",
@@ -16,7 +38,7 @@
     "date": "2026-08-03T02:56:30Z",
     "timestamp": 1785725790,
     "subject": "chore: update 1 submodule(s) to latest",
-    "refs": "origin/chore/update-submodules-20260803-025630"
+    "refs": ""
   },
   {
     "sha": "5fd0aa9a466167a7c971a44c4da84c29c21d4f42",
@@ -27,7 +49,7 @@
     "date": "2026-07-27T03:21:29Z",
     "timestamp": 1785122489,
     "subject": "chore: update git tree visualisation",
-    "refs": "HEAD -> main, origin/main"
+    "refs": ""
   },
   {
     "sha": "5817bf38ebf37ec79c10acf3621604423857bc38",
@@ -328,7 +350,7 @@
   }
 ],
   "branches": [
-  {"name":"5fd0aa9a466167a7c971a44c4da84c29c21d4f42 chore: update git tree visualisation","sha":"*","current":false,"merged":false}
+  {"name":"6d969cb732bb48dce672e9f01f181b622a21dbbb Merge pull request #5 from XAOSTECH:chore/update-submodules-20260803-025630","sha":"*","current":false,"merged":false}
 ],
   "tags": [
 
